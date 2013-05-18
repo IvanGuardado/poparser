@@ -1,7 +1,7 @@
 poparser
 ========
 
-A python parser for gettext catalog files
+A python parser for [gettext](http://www.gnu.org/software/gettext/manual/gettext.html) catalog files
 
 ### How to use
 Use the parse() method to get the table of symbols with the grouped data for each msgid
