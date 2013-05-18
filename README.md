@@ -4,7 +4,7 @@ poparser
 A python parser for gettext catalog files
 
 ### How to use
-Use the parse method to get the table of symbols with the grouped data for each msgid
+Use the parse() method to get the table of symbols with the grouped data for each msgid
 
 <pre>
 import poparser
@@ -12,7 +12,7 @@ poparser.parse(filename)
 </pre>
 
 ### Example
-Here you can see what is the function output for the below gettext file:
+Here you can see what the function outputs for the below gettext file:
 <pre>
 #
 #  <>, 2012.
